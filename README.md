@@ -2,8 +2,7 @@
 - 👀 I’m interested in ...technology
 - 🌱 I’m currently learning ...DEPIN
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me https://linktr.ee/already_there_
 - ⚡ Fun fact: ...I'm a noob 
 
 <!---
